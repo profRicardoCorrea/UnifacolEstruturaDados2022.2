@@ -1,2 +1,2 @@
-# UnifacolEstruturaDados2022.2
-Repostitório destinado aos códigos e projetos da disciplina de Estrutura de Dados da Unifacol 2022.2
+# UNIFACOL_ESTRUTURA_DE_DADOS_2022
+Projeto de Estrutura de Dados  para os códigos utilizados na disciplina.
