@@ -4,7 +4,7 @@ public class FilaVetor {
 	  
 	public static Integer[] fila=new Integer[5];
 	 
-	public static int front=4;
+	public static int front=0;
 	public static int finalF=5;
 	
 	 
